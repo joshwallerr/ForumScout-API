@@ -1,6 +1,6 @@
 # ForumScout API Documentation
 
-Welcome to the ForumScout API documentation. This guide explains how to integrate with our API, manage your API key, and understand usage limits and billing. 
+This guide explains how to integrate with the ForumScout API, manage your API key, and understand usage limits and billing. 
 
 ## Table of Contents
 
