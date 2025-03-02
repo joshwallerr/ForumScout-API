@@ -88,7 +88,8 @@ A successful API call will return a JSON object with your search results. For ex
     "source": "Quora",
     "title": "Is there a reliable search engine that I can use to perform ...",
     "url": "https://www.quora.com/Is-there-a-reliable-search-engine-that-I-can-use-to-perform-searches-on-discussion-boards-forums-message-boards"
-  }
+  },
+  ...
 ]
 ```
 
